@@ -1,2 +1,1 @@
-worker: npm start
-python bot.py
+worker: python discordbot.py
